@@ -39,7 +39,7 @@ Users should be able to:
 
 ### What I learned
 
-
+- I learned how to mobile first layout design.
 
 ### Useful resources
 
